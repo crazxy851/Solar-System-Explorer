@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Solar-System-Explorer/static/css/main.c03e1fa3.css",
+    "main.js": "/Solar-System-Explorer/static/js/main.fdb391c5.js",
+    "index.html": "/Solar-System-Explorer/index.html",
+    "main.c03e1fa3.css.map": "/Solar-System-Explorer/static/css/main.c03e1fa3.css.map",
+    "main.fdb391c5.js.map": "/Solar-System-Explorer/static/js/main.fdb391c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c03e1fa3.css",
+    "static/js/main.fdb391c5.js"
+  ]
+}
