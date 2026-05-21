@@ -2,6 +2,7 @@
   "name": "solar-explorer",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://crazxy851.github.io/Solar-System-Explorer",
   "dependencies": {
     "@react-three/drei": "^9.0.0",
     "@react-three/fiber": "^8.0.0",
@@ -12,6 +13,8 @@
     "three": "^0.183.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
